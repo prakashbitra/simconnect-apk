@@ -1,10 +1,8 @@
 # BrandMaster Sim Connect — Releases
 
 Binary-only distribution repo for the BrandMaster Sim Connect Android app. No source code lives
-here — just compiled, signed release APKs and a small version manifest (`latest.json`) that the
-app itself polls to check for updates.
-
-Source code: private repo at `prakashbitra/simconnect`.
+here — just compiled, signed release APKs (under [Releases](../../releases)) and a small version
+manifest (`latest.json`) that the app itself polls to check for updates.
 
 ## latest.json
 
