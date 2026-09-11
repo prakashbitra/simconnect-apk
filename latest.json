@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/prakashbitra/simconnect-apk/releases/download/v1.1.1/app-release.apk",
-  "notes": "Test release for tap-to-install update flow."
+  "versionCode": 4,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/prakashbitra/simconnect-apk/releases/download/v1.1.2-sideload/app-sideload-release.apk",
+  "notes": "Fixes a real Android 15+ crash on boot, edge-to-edge display, and 16KB native library alignment."
 }
